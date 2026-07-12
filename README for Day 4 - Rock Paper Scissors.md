@@ -43,4 +43,3 @@ python task.py
 \`\`\`
 
 ---
-*Part of my [#100DaysOfCode](https://www.100daysofcode.com/) challenge*

@@ -42,5 +42,3 @@ Rock Paper Scissors game with ASCII art for each choice.
 python task.py
 \`\`\`
 
----
-*Part of my [#100DaysOfCode](https://www.100daysofcode.com/) challenge*
